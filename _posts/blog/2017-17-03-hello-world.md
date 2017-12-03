@@ -30,3 +30,5 @@ Trust me. I don't know. I believe that the earth, life and thought are accidents
 It is important to empathize with people while reading history and be skeptical about it. Nobody knows why we exist. People usually give their own reason to exist and try to accomplish it. Its like playing GTA minus the missions plus self tailored new missions. Spawned in a Hierarchical society, we set goals and progress towards it, till death. The only difference is, there is no respawn. Make peace with this. Death is certain. Do the dance in between. Make sure the dance has no breaks.
 
 If you think this guy sucks at writing and hope I die. That will happen, just not today.
+
+PS: don't judge me

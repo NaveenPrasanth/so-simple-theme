@@ -4,6 +4,7 @@ title: "Personal"
 modified:
 categories: blog
 excerpt: "It's hard you know?"
+comments: true
 
 tags: [first, personal]
 image:

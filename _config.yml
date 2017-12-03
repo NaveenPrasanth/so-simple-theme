@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: Personal Blog
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: personal fluff
+logo: logo.png
 search: true
 url: https://naveenprasanth.github.io/
 
@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Naveen Prasanth
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: nnpths01@email.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: NaveenPrasanthS
+  facebook: nnpths01
+  github: naveenprasanth
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
